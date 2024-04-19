@@ -1,7 +1,7 @@
 # trabalho-lista-afazeres
 FEITO POR:
-Jardy Rover Giovan Melo Bonfim (RA: 80708-2021)
-Wanderson Gabriel Sampaio Navarro (RA: 80566-2021)
+Jardy Rover Giovan Melo Bonfim (RA: 80708-2021);
+Wanderson Gabriel Sampaio Navarro (RA: 80566-2021).
 
 Vocês deverão desenvolver as funcionalidades de editar e excluir uma tarefa de uma lista de afazeres utilizando o framework Flutter, baseando-se no código fornecido abaixo. A tarefa inclui adaptar tanto a lógica quanto o layout conforme as necessidades surgirem.
 
